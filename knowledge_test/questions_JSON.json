@@ -1,0 +1,1267 @@
+[
+      {
+          "id": 0,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Was passiert wenn Sie auf die Fläche 'Änderungsdatum' klicken?",
+          "options":[
+          				{"id":1, "name":"Die Dateien werden nach dem Änderungsdatum geordnet."},
+          				{"id":2, "name":"Es passiert nichts."},
+          				{"id":3, "name":"Es wird das Datum zusätzlich zur Uhrzeit angezeigt."},
+          				{"id":4, "name":"Die Dateien werden nach Namen sortiert."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1}
+					],
+          "img": "knowledge_test/question_img/frage1.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+          "id": 1,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Wie kann ich die Akkulaufzeit eines Laptops verlängern?",
+          "options":[
+          				{"id":1, "name":"Helligkeit verringern."},
+          				{"id":2, "name":"Ich starte die Defragmentierung."},
+          				{"id":3, "name":"Schließen ungenutzter Programme."},
+          				{"id":4, "name":"Falls vorhanden: Stromsparmodus."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1}, 
+						{"id": 3}, 
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+          "id": 2,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Welche der folgenden Dinge zählen zur Software?",
+          "options":[
+          				{"id":1, "name":"Touchpads"},
+          				{"id":2, "name":"Betriebssystem"},
+          				{"id":3, "name":"Textverarbeitungsprogramm"},
+          				{"id":4, "name":"Treiber"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2}, 
+						{"id": 3}, 
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+          "id": 3,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Für welche Vorgänge werden in der Regel Administratorrechte benötigt?",
+          "options":[
+          				{"id":1, "name":"Das Löschen von Bildern."},
+          				{"id":2, "name":"Das versenden einer E-Mail."},
+          				{"id":3, "name":"Installation von Programmen."},
+          				{"id":4, "name":"Die Änderung der Bildschirmhelligkeit."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 4,
+          "category": "Computer Grundlagen",
+          "type": 3,
+          "question": "Wo finden Sie die Größe einer Datei?",
+          "options":[	
+          				{"id":1, "name":"Strg + S (Windows)/ Cmd + S (Mac)"},
+          				{"id":2, "name":"Rechtsklick auf die Datei"},
+          				{"id":3, "name":"Einstellungen"},
+          				{"id":4, "name":"Eigenschaften (Windows) / Informationen (Mac)"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 5,
+          "category": "Computer Grundlagen",
+          "type": 3,
+          "question": "Wie gehen Sie vor wenn Sie ausversehen eine Datei vom Desktop (Windows)/ Schreibtisch (Mac) gelöscht haben und Sie diese wiederherstellen wollen?",
+          "options":[	
+          				{"id":1, "name":"Wiederherstellen (Windows) / Zurücklegen (Mac)"},
+          				{"id":2, "name":"Papierkorb öffnen"},
+          				{"id":3, "name":"Rechtsklick auf Datei"},
+          				{"id":4, "name":"Einstellungen"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2},
+						{"id": 3},
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+          "id": 6,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Was bewirkt die Umwandlung einer Datei zu Zip, Gzip, Tar oder 7z?",
+          "options":[	
+          				{"id":1, "name":"Mindestens eine Verkleinerung der Datei um 40% (ausgenommen Bilder)."},
+          				{"id":2, "name":"Sie lässt sich schneller öffnen."},
+          				{"id":3, "name":"Eine Absicherung meiner Daten."},
+          				{"id":4, "name":"In der Regel eine Verkleinerung der Dateien."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 7,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Ist es möglich gelöschte Dateien wiederherzustellen?",
+          "options":[
+          			{"id":1, "name":"Ja, wenn diese noch im Papierkorb liegen."},
+          			{"id":2, "name":"Ja, wenn diese gelöscht wurden und noch nicht von neuen Dateien überschrieben wurden."},
+          			{"id":3, "name":"Nein, es ist nicht möglich."},
+          			{"id":4, "name":"Nur bei Dateien die kleiner als 10 MB sind."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 8,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Ist es ratsam bei der Installation von Programmen die benutzerdefinierte (custom) Installation zu wählen?",
+          "options":[	
+          				{"id":1, "name":"Ja, weil die Installation schneller geht."},
+          				{"id":2, "name":"Ja, um die Installation weiterer Software zu verhindern."},
+          				{"id":3, "name":"Nein, es bringt keine Vorteile."},
+          				{"id":4, "name":"Ja, um den Speicherort zu bestimmen."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 9,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Was ist RAM (Random-Access Memory)?",
+          "options": [
+          			{"id":1, "name":"Ein Speicher der Daten nach dem Herunterfahren zwischenspeichert."},
+          			{"id":2, "name":"Der Speicher auf einer SSD."},
+          			{"id":3, "name":"Der Speicher auf dem das Betriebssystem liegt."},
+          			{"id":4, "name":"Ein Speicher der Daten enthält von Programmen die gerade ausgeführt werden."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 10,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Die Tastenkombination 'Strg+Alt+Entf' (Windows)/ 'Cmd+Alt+Esc' (Mac) benötigt man meist im Zusammenhang mit welchem Problem?",
+          "options": [
+          			{"id":1, "name":"Um komplette Verzeichnisse zu löschen."},
+          			{"id":2, "name":"Wenn ein Programm nicht mehr reagiert."},
+          			{"id":3, "name":"Wenn ein Programm fehlerhaft installiert wurde."},
+          			{"id":4, "name":"Wenn ich Teile der Hardware austauschen möchte."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 11,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Welche der folgenden Bestandteile zählen zur Hardware eines Computers?",
+          "options": [
+          			{"id":1, "name":"SSD"},
+          			{"id":2, "name":"CPU"},
+          			{"id":3, "name":"Monitor"},
+          			{"id":4, "name":"Motherboard"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 12,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Was wird in der Regel für neu angeschlossene Hardware benötigt, bevor ich diese verwenden kann?",
+          "options": [
+          			{"id":1, "name":"Die passenden Treiber."},
+          			{"id":2, "name":"Ein Betriebssystemupdate."},
+          			{"id":3, "name":"Eine Softwaresammlung des Herstellers."},
+          			{"id":4, "name":"Eine Internetverbindung."},
+               {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 13,
+          "category": "Computer Grundlagen",
+          "type": 3,
+          "question": "Wie gelangen Sie zur Datei 'Beispiel.txt', wenn Sie sich im abgebildeten Ordner befinden?",
+          "options": [
+          			{"id":1, "name":"/test"},
+          			{"id":2, "name":"/beispiel"},
+          			{"id":3, "name":"/Desktop"},
+          			{"id":4, "name":"/prüfe"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[ 
+						{"id": 4},
+						{"id": 2}
+					],
+		  "img": "knowledge_test/question_img/frage14.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 14,
+          "category": "Computer Grundlagen",
+          "type": 3,
+          "question": "Sie wollen eine Datei mit einem eben neu geladenen Programm namens 'FileView' öffnen, wie gehen Sie vor?",
+          "options": [	
+          				{"id":1, "name":"Öffnen mit"},
+          				{"id":2, "name":"Rechtsklick auf die Datei"},
+          				{"id":3, "name":"(andere Programme) FileView wählen"},
+          				{"id":4, "name":"Öffnen"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2},
+						{"id": 1},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 15,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Die Programme Taskmanager (Windows)/ Aktivitätsanzeige (Mac) zeigen unter anderem welche Informationen?",
+          "options": [
+          			{"id":1, "name":"Aktive Prozesse"},
+          			{"id":2, "name":"Online Zeit der letzten 24h"},
+          			{"id":3, "name":"Speicherverbrauch"},
+          			{"id":4, "name":"CPU Auslastung"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 16,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Welche Schnittstelle zur Übertragung von Dateien kann ich zu mobilen Endgeräten wie Tabletcomputern in Betracht ziehen?",
+          "options": [
+          			{"id":1, "name":"HDMI"},
+          			{"id":2, "name":"USB"},
+          			{"id":3, "name":"Bluetooth"},
+          			{"id":4, "name":"WLAN"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 17,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Welche Schritte können Sie unternehmen, wenn der Drucker nicht mehr arbeitet?",
+          "options": [
+          			{"id":1, "name":"Papier und Tinte prüfen."},
+          			{"id":2, "name":"Verbindung zum Drucker prüfen."},
+          			{"id":3, "name":"Tintenbehälter leeren."},
+          			{"id":4, "name":"Software bzw. Treiber prüfen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+            {
+        "id": 18,
+          "category": "Office Grundlagen",
+          "type": 1,
+          "question": "Welche Eigenschaften besitzt der Text nachdem Sie die abgebildeten Symbole nacheinander geklickt haben?",
+          "options": [
+          			{"id":1, "name":"Er wird zur Überschrift."},
+          			{"id":2, "name":"Er ist Zentriert."},
+          			{"id":3, "name":"Alle Zeilen werden gleich groß."},
+          			{"id":4, "name":"Der Text wird unterstrichen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage19.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 19,
+          "category": "Office Grundlagen",
+          "type": 1,
+          "question": "Welche Funktionen hat die abgebildete Taste?",
+          "options": [
+          			{"id":1, "name":"Eingabe bestätigen."},
+          			{"id":2, "name":"Löschen einer Zeile."},
+          			{"id":3, "name":"Nach links wechseln."},
+          			{"id":4, "name":"Neue Zeile in der Texteingabe."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage20.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 20,
+          "category": "Office Grundlagen",
+          "type": 2,
+          "question": "Wie lässt sich in den meisten Programmen eine Aktion rückgängig machen?",
+          "options": [
+          			{"id":1, "name":"Bearbeiten/ Wiederholen"},
+          			{"id":2, "name":"Strg + R (Windows)/ Cmd + R (Mac)"},
+          			{"id":3, "name":"Strg + Z (Windows)/ Cmd + Z (Mac)"},
+          			{"id":4, "name":"F7 (Windows)/ F8 (Mac)"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 3}
+					],
+		  "img": "knowledge_test/question_img/frage21.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 21,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Sie haben in die Zelle 'A1' ein Wort geschrieben. Wie können Sie dieses einfach auf alle anderen Zellen der Spalte 'A' übertragen?",
+          "options": [
+          			{"id":1, "name":"Punkt rechts unten gedrückt halten"},
+          			{"id":2, "name":"Kopieren..."},
+          			{"id":3, "name":"Feld 'A1' auswählen"},
+          			{"id":4, "name":"Auswahl nach unten ziehen"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 3},
+						{"id": 1},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage22.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 22,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Sie haben gerade eine Datei bearbeitet und wollen diese in 'test.txt' umbenennen und speichern. Wie gehen Sie vor?",
+          "options": [
+          			{"id":1, "name":"Speichern unter..."},
+          			{"id":2, "name":"'test.txt' eingeben"},
+          			{"id":3, "name":"Datei"},
+          			{"id":4, "name":"speichern"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 3},
+						{"id": 1},
+						{"id": 2},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage23.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 23,
+          "category": "Office Grundlagen",
+          "type": 2,
+          "question": "Für welche Berechnungsformel ist dieses Symbol die Schnellauswahl in einem Tabellenkalkulationsprogramm?",
+          "options": [
+          			{"id":1, "name":"Mittelwert"},
+          			{"id":2, "name":"Summe"},
+          			{"id":3, "name":"Produkt"},
+          			{"id":4, "name":"Keine"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2}
+					],
+		  "img": "knowledge_test/question_img/frage24.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 24,
+          "category": "Office Grundlagen",
+          "type": 2,
+          "question": "Was passiert in der gezeigten Situation nach Betätigung der Tab-Taste?",
+          "options": [
+          			{"id":1, "name":"Es passiert nichts."},
+          			{"id":2, "name":"Das Feld 'B10' wird markiert."},
+          			{"id":3, "name":"Es wird ein Kreisdiagramm aller Werte der Spalte 'A' erstellt."},
+          			{"id":4, "name":"Es wird der zuletzt geschriebene Wert übernommen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2}
+						
+					],
+		  "img": "knowledge_test/question_img/frage25.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 25,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Wie gehen Sie vor wenn Sie eine neue Spalte zwischen Spalte 'A' und Spalte 'B' einfügen wollen?",
+          "options": [
+          			{"id":1, "name":"Rechtsklick auf Spalte 'B' in der Kopfzeile"},
+          			{"id":2, "name":"Einfügen/ Spalte/ 1 links einfügen"},
+          			{"id":3, "name":"Ansicht"},
+          			{"id":4, "name":"F3 (Windows)/ F5 (Mac)"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 2}
+					],
+		  "img": "knowledge_test/question_img/frage26.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 26,
+          "category": "Office Grundlagen",
+          "type": 4,
+          "question": "Wie lautet das Ergebnis der Formel 'Mittelwert(10;20)'?",
+          "inputfields": [{"id":1, "name":"Lösung"}
+          ],
+          "answers":[
+						{"id": 1, "text": "15"}
+					],
+		  "img": "knowledge_test/question_img/frage27.png",
+          "level": "S",
+          "points": 3
+      },
+      {
+        "id": 27,
+          "category": "Office Grundlagen",
+          "type": 1,
+          "question": "Wodurch zeichnet sich eine PDF-Datei aus?",
+          "options": [
+          			{"id":1, "name":"Jeder kann die Datei bearbeiten."},
+          			{"id":2, "name":"Die Datei ist in der Regel nicht mehr änderbar."},
+          			{"id":3, "name":"Gleiches Format auf allen Geräten."},
+          			{"id":4, "name":"Die Datei kann mit jedem Betriebssystem geöffnet werden."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 28,
+          "category": "Office Grundlagen",
+          "type": 1,
+          "question": "Was für Merkmale und Besonderheiten treffen auf die Formate '.doc'/ '.docx' und '.odt' zu?",
+          "options": [
+          			{"id":1, "name":"'.doc'/ 'docx' ist ein proprietäres Format der Firma Microsoft."},
+          			{"id":2, "name":"Bei der Überführung von einem in das andere Format kann es zu Layout Änderungen oder anderen Problemen kommen."},
+          			{"id":3, "name":"'.odt' ist ein quelloffenes Format."},
+          			{"id":4, "name":"Sie besitzen exakt die gleichen Eigenschaften."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 29,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Wie können Sie die Rechtschreibkorrektur für ein Wort aufrufen und daraufhin anwenden?",
+          "options": [	
+          				{"id":1, "name":"Datei"},
+          				{"id":2, "name":"Alt + ESC"},
+          				{"id":3, "name":"Rechtsklick auf das Wort"},
+          				{"id":4, "name":"Vorschlag auswählen"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage30.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 30,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Wie können Sie vorgehen, wenn Sie einen Text auswählen, daraufhin kopieren und an einer anderen Stelle einfügen wollen?",
+          "options": [
+          				{"id":1, "name":"Strg + C (Windows)/ Cmd + C (Mac)"},
+          				{"id":2, "name":"Datei auswählen"},
+          				{"id":3, "name":"Zielort wählen"},
+          				{"id":4, "name":"Strg + V (Windows)/ Cmd + V (Mac)"},
+          				{"id":5, "name":"Text markieren"},
+                  {"id":6, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 5},
+						{"id": 1},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 31,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Wie druckt man einen Text in doppelter Ausführung aus dem Schreibprogramm heraus?",
+          "options": [
+          			{"id":1, "name":"Drucken..."},
+          			{"id":2, "name":"drucken"},
+          			{"id":3, "name":"Kopien: 2"},
+          			{"id":4, "name":"Datei"},
+          			{"id":5, "name":"Bearbeiten"},
+                {"id":6, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 4},
+						{"id": 1},
+						{"id": 3},
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 32,
+          "category": "Office Grundlagen",
+          "type": 2,
+          "question": "Worauf sollten Sie achten, wenn Sie die automatische Generierung von Inhaltsverzeichnissen nutzen wollen?",
+          "options": [
+          			{"id":1, "name":"Nur Großbuchstaben verwenden."},
+          			{"id":2, "name":"Alle Überschriften größer als Schriftgröße 12 schreiben."},
+          			{"id":3, "name":"Die Formvorlagen Überschriften zu nutzen."},
+          			{"id":4, "name":"Einen Tab vor die Überschrift setzen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 33,
+          "category": "Office Grundlagen",
+          "type": 2,
+          "question": "Wie können Sie eine Änderung des Layouts, in den meisten Präsentationsprogrammen, schnell auf alle Folien Ihrer Präsentation übernehmen?",
+          "options": [
+          			{"id":1, "name":"Manuell auf jede Folie übertragen."},
+          			{"id":2, "name":"Durch Änderung des Folienmasters."},
+          			{"id":3, "name":"Neustart des Präsentationsprogramms."},
+          			{"id":4, "name":"Ansicht und Designs übernehmen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 34,
+          "category": "Office Grundlagen",
+          "type": 1,
+          "question": "Womit sollten Sie beim Exportieren von Präsentationen in das PDF-Format rechnen?",
+          "options": [
+          			{"id":1, "name":"Übergänge gehen verloren."},
+          			{"id":2, "name":"Animationen gehen verloren."},
+          			{"id":3, "name":"Videos gehen verloren."},
+          			{"id":4, "name":"Alle Bilder werden vergrößert."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 35,
+          "category": "Office Grundlagen",
+          "type": 4,
+          "question": "Mit welcher Formel berechnen Sie die Summe der Werte von Feld B4 bis B9?",
+          "inputfields": [{"id":1, "name": "Eingabe"}],
+          "answers":[{"id": 1, "text": "SUMME(B4:B9)"}],
+		      "img": "knowledge_test/question_img/frage36.png",
+          "level": "S",
+          "points": 3
+      },
+            {
+        "id": 36,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Was ist für die effektive Wirksamkeit von Antivirenprogrammen notwendig?",
+          "options": [
+          			{"id":1, "name":"Ein Treiberpaket."},
+          			{"id":2, "name":"Regelmäßig Updates durchführen."},
+          			{"id":3, "name":"Regelmäßig Systemscans durchführen."},
+          			{"id":4, "name":"Verzicht auf externe Festplatten."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2},
+						{"id": 3}
+					],
+		      "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 37,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Unter dem Begriff Browser fasst man alle Programme zusammen die welchem Zweck dienen?",
+          "options": [
+          			{"id":1, "name":"Der Darstellung von Websites."},
+          			{"id":2, "name":"Das öffnen einer Suchmaschine."},
+          			{"id":3, "name":"Dem Starten des Betriebssystems."},
+          			{"id":4, "name":"Dem Empfangen von E-Mails."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 38,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Sollte man Betriebssysteme und Software regelmäßig updaten?",
+          "options": [
+          			{"id":1, "name":"Nein, man sollte das auf keinen Fall innerhalb der ersten Woche nach dem Erscheinen des Updates tun."},
+          			{"id":2, "name":"Ja, weil es dadurch schneller wird."},
+          			{"id":3, "name":"Ja, weil dabei oftmals neben Neuerungen auch Sicherheitslücken geschlossen werden."},
+          			{"id":4, "name":"Ja, weil ein Update meist nur ein Jahr lang kostenlos möglich ist."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 39,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Welche Bestandteile sollte ein sicheres Passwort haben?",
+          "options": [
+          			{"id":1, "name":"Es sollte Zahlen beinhalten."},
+          			{"id":2, "name":"Es sollte zwischen Groß- & Kleinbuchstaben variieren."},
+          			{"id":3, "name":"Es sollte Sonderzeichen beinhalten."},
+          			{"id":4, "name":"Es sollte mehr als 7 Zeichen beinhalten."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 40,
+          "category": "Internet Grundlagen",
+          "type": 3,
+          "question": "Wie ändere ich die Startseite meines Browsers?",
+          "options": [
+          			{"id":1, "name":"Browsereinstellungen"},
+          			{"id":2, "name":"Startseite eingeben und bestätigen"},
+          			{"id":3, "name":"Menüpunkt 'Suchmaschineneinstellungen' auswählen"},
+          			{"id":4, "name":"Bearbeiten"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 41,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Würden sie folgender Onlinebanking Website vertrauen?",
+          "options": [
+          			{"id":1, "name":"Ja, es besteht keine Gefahr."},
+          			{"id":2, "name":"Nein, weil die Verbindung nicht verschlüsselt übertragen wird."},
+          			{"id":3, "name":"Vielleicht, es kommt auf den Rest der Website an."},
+          			{"id":4, "name":"Nein, weil meine Verbindung nicht doppelt geprüft wird."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 2}
+					],
+		  "img": "knowledge_test/question_img/frage42.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 42,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Was dient primär dazu den Computer vor unbefugten Zugriffen von außen zu schützen?",
+          "options": [
+          			{"id":1, "name":"Firewall"},
+          			{"id":2, "name":"Antivirensoftware"},
+          			{"id":3, "name":"Shareware"},
+          			{"id":4, "name":"Adware"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 43,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Für was kann ich ein lokales Netzwerk nutzen?",
+          "options": [
+          			{"id":1, "name":"Um Daten innerhalb meines Heimnetzwerks auszutauschen."},
+          			{"id":2, "name":"Um Daten innerhalb eines Unternehmensstandortes auszutauschen."},
+          			{"id":3, "name":"Um Drucker anzuschließen."},
+          			{"id":4, "name":"Um Daten innerhalb einer Stadt zu senden."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 44,
+          "category": "Internet Grundlagen",
+          "type": 3,
+          "question": "Wie gelange ich zur Benutzeroberfläche meines Routers?",
+          "options": [
+          			{"id":1, "name":"Browser öffnen und Router-Adresse eingeben"},
+          			{"id":2, "name":"Login-Daten eingeben"},
+          			{"id":3, "name":"Menü-Taste des Routers 3 Sekunden gedrückt halten"},
+                {"id":4, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 45,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Hinter der Tastenkombination print/ druck (Windows)/ Cmd + Shift + 3 (Mac) verbirgt sich welche Funktion?",
+          "options":[ 
+                  {"id":1, "name":"Das Erstellen eines Screenshots."},
+                  {"id":2, "name":"Das starten des Druckers."},
+                  {"id":3, "name":"Man kann damit eine Kopie einer Datei erstellen."},
+                  {"id":4, "name":"Sie druckt die wichtigsten Systeminformationen aus."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 1}
+          ],
+      "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 46,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Welche Änderungen können Sie beispielsweise über die Benutzeroberfläche Ihres Routers im Browser vornehmen?",
+          "options": [
+          			{"id":1, "name":"Ausrichtung des WLAN-Signals."},
+          			{"id":2, "name":"Alle Browsereinstellungen."},
+          			{"id":3, "name":"WLAN-Passwort ändern."},
+          			{"id":4, "name":"Router-Name ändern."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 3},
+						{"id": 4}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 47,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Auf welche Funktion/ Eigenschaft weist dieses Symbol im Zusammenhang mit E-Mails hin?",
+          "options": [
+          			{"id":1, "name":"Die Funktion einen Anhang hinzuzufügen."},
+          			{"id":2, "name":"Das Öffnen der Hilfe."},
+          			{"id":3, "name":"Auf ein Bild im Anhang."},
+          			{"id":4, "name":"Die E-Mail enthält einen Anhang."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 4}
+					],
+		  "img": "knowledge_test/question_img/frage47.png",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 48,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Wie sollte ich generell mit Passwörtern umgehen?",
+          "options": [
+          			{"id":1, "name":"Passwörter regelmäßig ändern."},
+          			{"id":2, "name":"Wörter und Wortverbindungen zur besseren Merkbarkeit nutzen."},
+          			{"id":3, "name":"Unterschiedliche Passwörter für verschiedene Dienste nutzen."},
+          			{"id":4, "name":"Immer gleiche Passwörter zur besseren Merkbarkeit nutzen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 49,
+          "category": "Internet Grundlagen",
+          "type": 3,
+          "question": "Wie speichern Sie ein Bild aus dem Internet auf Ihrem Desktop (Windows)/ Schreibtisch (Mac)?",
+          "options": [
+          			{"id":1, "name":"speichern"},
+          			{"id":2, "name":"Speichern unter.."},
+          			{"id":3, "name":"Rechtsklick auf das Bild"},
+          			{"id":4, "name":"Zielort: Desktop (Windows)/ Schreibtisch (Mac) auswählen"},
+          			{"id":5, "name":"Anzeige"},
+                {"id":6, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 3},
+						{"id": 2},
+						{"id": 4},
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 50,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Würden Sie den Inhalt aus folgender Mail glauben schenken?",
+          "options": [
+          			{"id":1, "name":"Nein, da der Absender nicht 'Paypal' sondern 'payworld' ist."},
+          			{"id":2, "name":"Nein, weil eine ausführbare Datei im Anhang ist."},
+          			{"id":3, "name":"Nein, weil keine persönliche Anrede genutzt wird."},
+          			{"id":4, "name":"Ja, 'Paypal' ist ein vertrauenswürdiger Anbieter."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2},
+						{"id": 3}
+					],
+		  "img": "knowledge_test/question_img/frage50.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 51,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Wodurch unterscheiden sich Pop und Imap Server?",
+          "options": [
+          			{"id":1, "name":"Pop - vollständiger Download der Mails."},
+          			{"id":2, "name":"Imap - nur Download von Header Dateien der Mails."},
+          			{"id":3, "name":"Imap wird nur zum Versenden von Mails genutzt."},
+          			{"id":4, "name":"Pop wird vor allem für das Versenden von Musik genutzt."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 2}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 52,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Für was werden Cookies unter anderem genutzt?",
+          "options": [
+          			{"id":1, "name":"Um Sessions zu speichern."},
+          			{"id":2, "name":"Um Nutzerdaten auf den Unternehmensservern zu speichern."},
+          			{"id":3, "name":"Speichern von User-Einstellungen."},
+          			{"id":4, "name":"Um unbemerkt Software auf meinem Rechner zu speichern."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1},
+						{"id": 3}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 53,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Was ist der Unterschied zwischen 'http' und 'https'?",
+          "options": [
+          			{"id":1, "name":"Bei 'https' werden meine Daten verschlüsselt übertragen."},
+          			{"id":2, "name":"'https' ist schneller als 'http'."},
+          			{"id":3, "name":"'http' kennzeichnet veraltete Websites."},
+          			{"id":4, "name":"Websites mit 'https' speichern meine Daten."},
+                {"id":5, "name":"Ich weiß es nicht."}
+          			],
+          "answers":[
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 54,
+          "category": "Internet Grundlagen",
+          "type": 3,
+          "question": "Wie gehen Sie vor wenn Sie ein Bild einer Ziege im Internet suchen wollen?",
+          "options": [	
+          				{"id":1, "name":"Auswahl öffnen"},
+          				{"id":2, "name":"Suchmaschine öffnen"},
+          				{"id":3, "name":"Browser öffnen"},
+          				{"id":4, "name":"Bildersuche 'Ziege'"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                    ],
+          "answers":[
+						{"id": 3},
+						{"id": 2},
+						{"id": 4},
+						{"id": 1}
+					],
+		  "img": "",
+          "level": "L",
+          "points": 1
+      },
+            {
+        "id": 55,
+          "category": "Internet Grundlagen",
+          "type": 1,
+          "question": "Für was können Cloud-Dienste unter anderem genutzt werden?",
+          "options": [
+                {"id":1, "name":"Teilen von Dateien mit anderen Geräten und Personen."},
+                {"id":2, "name":"Um einen Wetterbericht auf meinem Rechner zu integrieren."},
+                {"id":3, "name":"Für Datensicherungen, zum Schutz vor lokalem Festplattenausfall."},
+                {"id":4, "name":"Um offline schneller meine Daten zu sichern."},
+                {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 1},
+            {"id": 3}
+          ],
+      "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 56,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Welche Funktion hat ein WLAN-Repeater?",
+          "options": [
+                {"id":1, "name":"Er dient als WLAN-Zugang zum Internet, ein Router wird nicht mehr benötigt."},
+                {"id":2, "name":"Er schirmt die WLAN-Strahlung von Teilen der Wohnung ab."},
+                {"id":3, "name":"Er bewirkt eine enorme Geschwindigkeitserhöhung des Internets in der Nähe des Routers."},
+                {"id":4, "name":"Die Reichweite des WLAN Signals erhöhen."},
+                {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 4}
+          ],
+      "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 57,
+          "category": "Internet Grundlagen",
+          "type": 2,
+          "question": "Wozu dient meine IP Adresse?",
+          "options": [
+                {"id":1, "name":"Zur Identifikation meines Accounts beim Internetprovider."},
+                {"id":2, "name":"Zur Adressierung meines Gerätes in einem Netzwerk."},
+                {"id":3, "name":"Um der Verwechslungsgefahr von Mobiltelefonen vorzubeugen."},
+                {"id":4, "name":"Eine Nummer, die jeden Computer sowohl online als auch offline genau identifizieren kann."},
+                {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 2}
+          ],
+      "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 58,
+          "category": "Internet Grundlagen",
+          "type": 4,
+          "question": "Füllen Sie folgende Felder aus.",
+          "inputfields": [{"id":1, "name":"Postausgangsserver"}],
+          "answers":[{"id": 1, "text": "smtp.test.de"}],
+      "img": "knowledge_test/question_img/frage58.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 59,
+          "category": "Office Grundlagen",
+          "type": 3,
+          "question": "Wie Erstellt man ein Kreisdiagramm aller Werte der Spalte 'A'?",
+          "options": [
+                {"id":1, "name":"Diagramm"},
+                {"id":2, "name":"Doppelklick mit der rechten Maustaste"},
+                {"id":3, "name":"Spalte A markieren"},
+                {"id":4, "name":"Kreis"},
+                {"id":5, "name":"Ich weiß es nicht."}
+          ],
+          "answers":[
+            {"id": 3},
+            {"id": 1},
+            {"id": 4}
+          ],
+      "img": "knowledge_test/question_img/frage59.png",
+          "level": "M",
+          "points": 2
+      },
+      {
+          "id": 60,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Auf welcher Hardwarekomponente Ihres Rechner ist das Betriebssystem gespeichert?",
+          "options":[
+                  {"id":1, "name":"Auf dem RAM."},
+                  {"id":2, "name":"Auf der Festplatte."},
+                  {"id":3, "name":"Auf dem Motherboard."},
+                  {"id":4, "name":"Im BIOS."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 2}
+          ],
+      "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+          "id": 61,
+          "category": "Computer Grundlagen",
+          "type": 1,
+          "question": "Die Begriffe Systemabbild (Windows)/ TimeMachine (Mac) benötige ich in welchem Zusammenhang?",
+          "options":[
+                  {"id":1, "name":"Um Einstellungen an meinem System vorzunehmen."},
+                  {"id":2, "name":"Um die lokale Uhrzeit mit der Serverzeit zu synchronisieren."},
+                  {"id":3, "name":"Bei einer Wiederherstellung meines gesamten Systems."},
+                  {"id":4, "name":"Bei einer Sicherung meines gesamten Systems."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 3},
+            {"id": 4}
+          ],
+      "img": "",
+          "level": "L",
+          "points": 1
+      },
+      {
+        "id": 62,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Was gibt die Taktfrequenz von Prozessoren an?",
+          "options":[ 
+                  {"id":1, "name":"Wie viele Operationen der Prozessor pro Zeiteinheit verarbeiten kann."},
+                  {"id":2, "name":"Wie schnell mein Rechner ist."},
+                  {"id":3, "name":"Ob mein Rechner Über- oder Untergetaktet ist."},
+                  {"id":4, "name":"Sie unterscheidet zwischen 32 und 64 Bit Systemen."},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 1}
+          ],
+      "img": "",
+          "level": "M",
+          "points": 2
+      },
+      {
+        "id": 63,
+          "category": "Computer Grundlagen",
+          "type": 2,
+          "question": "Sie wolle in der Datei Suche (Windows)/ Finder (Mac) alle MP3-Datein finden, was müssen Sie eingeben?",
+          "options":[ 
+                  {"id":1, "name":"file.mp3"},
+                  {"id":2, "name":"music"},
+                  {"id":3, "name":"all MP3-files"},
+                  {"id":4, "name":"*.mp3"},
+                  {"id":5, "name":"Ich weiß es nicht."}
+                ],
+          "answers":[
+            {"id": 4}
+          ],
+      "img": "knowledge_test/question_img/frage63.png",
+          "level": "M",
+          "points": 2
+      }
+]      
